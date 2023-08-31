@@ -1,0 +1,7 @@
+Hej Anders, Lucas Arvidsson heter jag och är 28år.
+Jag är en väldigt intresserad kille när det kommer till det mesta. Datorer och "IT" är något som legat nära hjärtat länge, jag är duktig på felsökning av datorer och dess komponenter men inte jobbat så mycket med just programmering förrut.
+För ett år sedan så tog jag examen som Drifttekniker på yrkesthögskola. Men efter att jag hade jobbat i cirka 1år så kändes det som att jobbet blev väldigt monotont och att det inte kommer leda till någon enorm utveckling.
+Utveckling är något som driver mig, och jag tycker det är för tidigt för mig att vara färdig med min egna utveckling.
+Nu har jag öppnat ögonen för programmering för att se vad det kan leda till. Mycket ideer är något jag har kontant, tyvärr kommer det ofta på bekostnaden av koncentrationen, korta bensträckare mellan varven brukar vara ett vinnande koncept.
+Men målet för mig med kursen och utbildningen är att jag skulle vilja förstå hur man kan bygga egna enklare system/program som kan utföra uppgifter, oavsett om det är insamling av data eller liknande.
+Tidigare så har jag inte gjort några större program i Python utan skulle säga att jag ligger på en "Basic-nivå". Det är mycket lättare för mig att läsa kod än att skriva den själv.
